@@ -1,0 +1,21 @@
+{
+  "name": "sabor_latino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielHNCT/Sabor_Latino.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielHNCT/Sabor_Latino/issues"
+  },
+  "homepage": "https://github.com/DanielHNCT/Sabor_Latino#readme",
+  "type": "module"
+}
